@@ -5,8 +5,8 @@ From Postman menu, select File > Import.  Then select demo file(s) and the envir
 1. Click on Manage Environment button in top right
 2. Click on the "<api server>.prismacloud.io" item in the Manage Environments popup
 3. Enter values under CURRENT VALUE for **server, username, and password**
-OR
-Modify the api_server.postman_environment.json with a text editor, filling in the value fields for "server", "username", and "password", for example:
+
+- Alternatively, you can directly modify the api_server.postman_environment.json with a text editor, filling in the value fields for "server", "username", and "password", for example:
 ```
 {
 	"id": "064d974c-383e-47fe-b9cc-8bab0b6c8bff",
