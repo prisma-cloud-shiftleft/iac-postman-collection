@@ -33,3 +33,9 @@ From Postman menu, select File > Import.  Then select demo file(s) and the envir
 	"_postman_exported_using": "Postman/7.34.0"
 }
 ```
+## Running Demo Collection
+- You can run individual API Request in sequence within the collection (as it's tagged with prefix with a number from 1 to 7)
+- Or run the entire collection using the Collection Runner 
+     1. From Menu, select File > New Runner Window.
+     2. Select your collection name from the list.
+     3. Click blue Run button.
